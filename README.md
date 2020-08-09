@@ -1,9 +1,7 @@
-<p align="center">
-    <h1 align="center">Aii Customize - Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://aiivn.github.io/aii-just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
-</p>
+# Aii Customize - Just the Docs
+A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.
+
+**[See it in action!](https://aiivn.github.io/aii-just-the-docs/)**
 
 ## Installation
 
@@ -35,9 +33,9 @@ Or install it yourself as:
 
 To set up your environment to develop this theme, run `bundle install`.
 
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. 
 
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
+This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents.
 
 ## License
 
