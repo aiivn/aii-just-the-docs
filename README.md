@@ -1,7 +1,7 @@
-# Aii Customize - Just the Docs
+# Wilson Customize - Just the Docs
 A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.
 
-**[See it in action!](https://aiivn.github.io/aii-just-the-docs/)**
+**[See it in action!](https://wilsonvn.github.io/ws-jtd/)**
 
 ## Installation
 
@@ -27,7 +27,7 @@ Or install it yourself as:
 
 ## Usage
 
-[View the documentation](https://aiivn.github.io/aii-just-the-docs/) for usage information.
+[View the documentation](https://wilsonvn.github.io/ws-jtd/) for usage information.
 
 ## Development
 
